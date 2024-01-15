@@ -1,0 +1,515 @@
+[
+  {
+    "Nombre": "Embarque Test",
+    "Fecha_Cierre": "24\/7\/2021",
+    "Fecha_Arribo": "22\/10\/2021",
+    "Fecha_Embarque": "7\/9\/2021",
+    "Fecha_Desconsolidacion": "29\/10\/2021",
+    "ProductosEmbarque": [
+      {
+        "Modelo": "HB02-100",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 15.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-100",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 15.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-100",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 15.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-100",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 15.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-100",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 15.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-100",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 15.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-150",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 25.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-150",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 25.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-150",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 25.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-150",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 25.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-150",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 25.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-150",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 25.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-200",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 35.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-200",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 35.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-200",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 35.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-200",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 35.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-200",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 35.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-200",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 35.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-240",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 45.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-240",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 45.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-240",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 45.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-240",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 45.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 90 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-240",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 45.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "HB02-240",
+        "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+        "FOB": 45.00,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5700 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      }
+    ]
+  }
+]

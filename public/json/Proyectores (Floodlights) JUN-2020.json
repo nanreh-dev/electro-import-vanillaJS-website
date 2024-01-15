@@ -1,0 +1,252 @@
+[
+  {
+    "Nombre": "Proyectores (Floodlights) JUN-2020",
+    "EmbarqueDescripcion": "Proyectores con y sin sensor. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+    "Fecha_Cierre": "31\/3\/2021",
+    "Fecha_Arribo": "29\/6\/2021",
+    "Fecha_Embarque": "14\/5\/2021",
+    "Fecha_Desconsolidacion": "7\/7\/2021",
+    "ProductosEmbarque": [
+      {
+        "Modelo": "PEX10",
+        "Descripcion": "Proyector sin sensor 10W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 1.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinAyni.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX10",
+        "Descripcion": "Proyector sin sensor 10W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 1.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinAyni.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX20",
+        "Descripcion": "Proyector sin sensor 20W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 1.98,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-20W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX20",
+        "Descripcion": "Proyector sin sensor 20W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 1.98,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-20W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX20P",
+        "Descripcion": "Proyector con sensor 20W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 4.18,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-20W Led Projector With Motion Sensor.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX20P",
+        "Descripcion": "Proyector con sensor 20W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 4.18,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-20W Led Projector With Motion Sensor.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX30",
+        "Descripcion": "Proyector sin sensor 30W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 2.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-30W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX30",
+        "Descripcion": "Proyector sin sensor 30W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 2.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-30W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX30P",
+        "Descripcion": "Proyector con sensor 30W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 4.76,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-30W Led Projector With Motion Sensor.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX30P",
+        "Descripcion": "Proyector con sensor 30W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 4.76,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-30W Led Projector With Motion Sensor.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX50",
+        "Descripcion": "Proyector sin sensor 50W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 3.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202021141221 - OShine-50W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX50",
+        "Descripcion": "Proyector sin sensor 50W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 3.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202021141221 - OShine-50W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX50P",
+        "Descripcion": "Proyector con sensor 50W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 5.86,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-50W Led Projector With Motion Sensor.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX50P",
+        "Descripcion": "Proyector con sensor 50W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 5.86,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202020141220 - OShine-50W Led Projector With Motion Sensor.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX100",
+        "Descripcion": "Proyector sin sensor 100W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 7.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202029141229 - OShine-100W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "PEX100",
+        "Descripcion": "Proyector sin sensor 100W 18A. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior.",
+        "FOB": 7.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/202029141229 - OShine-100W Led Projector.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      }
+    ]
+  }
+]

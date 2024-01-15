@@ -1,0 +1,3978 @@
+[
+  {
+    "Nombre": "Paneles, Tubos y Tortugas SEP-2020",
+    "EmbarqueDescripcion": "Paneles 6060. Paneles de embutir y aplicar. Downlight. Tubos. Tortugas.",
+    "Fecha_Cierre": "29\/3\/2021",
+    "Fecha_Arribo": "27\/6\/2021",
+    "Fecha_Embarque": "13\/5\/2021",
+    "Fecha_Desconsolidacion": "4\/7\/2021",
+    "ProductosEmbarque": [
+      {
+        "Modelo": "AY-T8-06-CC-W",
+        "Descripcion": "Tubo Led 8W 588mm",
+        "FOB": 0.61,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-CC-W",
+        "Descripcion": "Tubo Led 8W 588mm",
+        "FOB": 0.61,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-CC-W",
+        "Descripcion": "Tubo Led 8W 588mm",
+        "FOB": 0.61,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-CC-W",
+        "Descripcion": "Tubo LED T8 16W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-CC-W",
+        "Descripcion": "Tubo LED T8 16W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-CC-W",
+        "Descripcion": "Tubo LED T8 16W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-CC-W",
+        "Descripcion": "Tubo LED T8 22W",
+        "FOB": 1.20,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-CC-W",
+        "Descripcion": "Tubo LED T8 22W",
+        "FOB": 1.20,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-CC-W",
+        "Descripcion": "Tubo LED T8 22W",
+        "FOB": 1.20,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-BB-W",
+        "Descripcion": "Tubo LED T8 9W",
+        "FOB": 0.71,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-BB-W",
+        "Descripcion": "Tubo LED T8 9W",
+        "FOB": 0.71,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-BB-W",
+        "Descripcion": "Tubo LED T8 9W",
+        "FOB": 0.71,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-BB-W",
+        "Descripcion": "Tubo LED T8 18W",
+        "FOB": 0.89,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-BB-W",
+        "Descripcion": "Tubo LED T8 18W",
+        "FOB": 0.89,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-BB-W",
+        "Descripcion": "Tubo LED T8 18W",
+        "FOB": 0.89,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-BB-W",
+        "Descripcion": "Tubo LED T8 24W",
+        "FOB": 1.46,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-BB-W",
+        "Descripcion": "Tubo LED T8 24W",
+        "FOB": 1.46,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-BB-W",
+        "Descripcion": "Tubo LED T8 24W",
+        "FOB": 1.46,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 9W",
+        "FOB": 0.86,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 9W",
+        "FOB": 0.86,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-06-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 9W",
+        "FOB": 0.86,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 18W",
+        "FOB": 1.15,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 18W",
+        "FOB": 1.15,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-12-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 18W",
+        "FOB": 1.15,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 24W",
+        "FOB": 1.81,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 24W",
+        "FOB": 1.81,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-15-PB-W",
+        "Descripcion": "Tubo LED T8 PC Series 24W",
+        "FOB": 1.81,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-24-AB-W",
+        "Descripcion": "Tubo LED T8 ALU+PC Series 40W",
+        "FOB": 4.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-3.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-24-AB-W",
+        "Descripcion": "Tubo LED T8 ALU+PC Series 40W",
+        "FOB": 4.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-3.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-T8-24-AB-W",
+        "Descripcion": "Tubo LED T8 ALU+PC Series 40W",
+        "FOB": 4.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201941060541 - Welfull-LT-3.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-8W",
+        "Descripcion": "Tortuga LED 8W",
+        "FOB": 1.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-8W",
+        "Descripcion": "Tortuga LED 8W",
+        "FOB": 1.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-12-W",
+        "Descripcion": "Tortuga LED 12W",
+        "FOB": 1.26,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-12-W",
+        "Descripcion": "Tortuga LED 12W",
+        "FOB": 1.26,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-18-W",
+        "Descripcion": "Tortuga LED 18W",
+        "FOB": 1.84,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-18-W",
+        "Descripcion": "Tortuga LED 18W",
+        "FOB": 1.84,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-8-W",
+        "Descripcion": "Tortuga LED 8W",
+        "FOB": 1.24,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-8-W",
+        "Descripcion": "Tortuga LED 8W",
+        "FOB": 1.24,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-12-W",
+        "Descripcion": "Tortuga LED 12W",
+        "FOB": 1.65,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-12-W",
+        "Descripcion": "Tortuga LED 12W",
+        "FOB": 1.65,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-18-W",
+        "Descripcion": "Tortuga LED 18W",
+        "FOB": 2.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-18-W",
+        "Descripcion": "Tortuga LED 18W",
+        "FOB": 2.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-3-WR-W",
+        "Descripcion": "Downlight LED 3W",
+        "FOB": 0.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-3-WR-W",
+        "Descripcion": "Downlight LED 3W",
+        "FOB": 0.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-3-WR-W",
+        "Descripcion": "Downlight LED 3W",
+        "FOB": 0.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-12-W",
+        "Descripcion": "Tortuga LED 12W",
+        "FOB": 1.26,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-18-W",
+        "Descripcion": "Tortuga LED 18W",
+        "FOB": 1.84,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGO-8W",
+        "Descripcion": "Tortuga LED 8W",
+        "FOB": 1.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B1.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-12-W",
+        "Descripcion": "Tortuga LED 12W",
+        "FOB": 1.65,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-18-W",
+        "Descripcion": "Tortuga LED 18W",
+        "FOB": 2.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BGR-8-W",
+        "Descripcion": "Tortuga LED 8W",
+        "FOB": 1.24,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LB-B2.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 60 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-5-WR-W",
+        "Descripcion": "Downlight 5W",
+        "FOB": 0.75,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201919090719 - Welfull-LD-B-5WR 120º.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 120 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-7-WR-W",
+        "Descripcion": "Downlight Led 7W",
+        "FOB": 1.40,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-7-WR-W",
+        "Descripcion": "Downlight Led 7W",
+        "FOB": 1.40,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-7-WR-W",
+        "Descripcion": "Downlight Led 7W",
+        "FOB": 1.40,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-10-WR-W",
+        "Descripcion": "Downlight Led 10W",
+        "FOB": 1.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-10-WR-W",
+        "Descripcion": "Downlight Led 10W",
+        "FOB": 1.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LD-B-10-WR-W",
+        "Descripcion": "Downlight Led 10W",
+        "FOB": 1.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920090720 - Welfull-LD-B-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-R-W",
+        "Descripcion": "Panel Led Redondo 3W",
+        "FOB": 0.80,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-R-W",
+        "Descripcion": "Panel Led Redondo 3W",
+        "FOB": 0.80,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-R-W",
+        "Descripcion": "Panel Led Redondo 3W",
+        "FOB": 0.80,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-R-W",
+        "Descripcion": "Panel Led Redondo 3W",
+        "FOB": 0.58,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-R-W",
+        "Descripcion": "Panel Led Redondo 3W",
+        "FOB": 0.58,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-R-W",
+        "Descripcion": "Panel Led Redondo 3W",
+        "FOB": 0.58,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 0.73,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 0.73,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 0.73,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.10,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.10,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.10,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-R-W",
+        "Descripcion": "Panel Led Redondo 9W",
+        "FOB": 0.96,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-R-W",
+        "Descripcion": "Panel Led Redondo 9W",
+        "FOB": 0.96,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-R-W",
+        "Descripcion": "Panel Led Redondo 9W",
+        "FOB": 0.96,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-R-W",
+        "Descripcion": "Panel Led Redondo 9W",
+        "FOB": 1.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-R-W",
+        "Descripcion": "Panel Led Redondo 9W",
+        "FOB": 1.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-R-W",
+        "Descripcion": "Panel Led Redondo 9W",
+        "FOB": 1.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.09,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-R-W",
+        "Descripcion": "Panel Led Redondo 15W",
+        "FOB": 1.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-R-W",
+        "Descripcion": "Panel Led Redondo 15W",
+        "FOB": 1.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-R-W",
+        "Descripcion": "Panel Led Redondo 15W",
+        "FOB": 1.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-R-W",
+        "Descripcion": "Panel Led Redondo 15W",
+        "FOB": 1.82,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-R-W",
+        "Descripcion": "Panel Led Redondo 15W",
+        "FOB": 1.82,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-R-W",
+        "Descripcion": "Panel Led Redondo 15W",
+        "FOB": 1.82,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.83,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.83,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.83,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.47,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.47,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.47,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.91,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.91,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.91,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201920100620 - Welfull-LPR-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-S-W",
+        "Descripcion": "Panel Led Cuadrado 3W",
+        "FOB": 0.67,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-S-W",
+        "Descripcion": "Panel Led Cuadrado 3W",
+        "FOB": 0.67,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-S-W",
+        "Descripcion": "Panel Led Cuadrado 3W",
+        "FOB": 0.67,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-S-W",
+        "Descripcion": "Panel Led Cuadrado 3W",
+        "FOB": 0.89,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-S-W",
+        "Descripcion": "Panel Led Cuadrado 3W",
+        "FOB": 0.89,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-3-S-W",
+        "Descripcion": "Panel Led Cuadrado 3W",
+        "FOB": 0.89,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 0.88,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 0.88,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 0.88,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.17,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.17,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.17,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-S-W",
+        "Descripcion": "Panel Led Cuadrado 9W",
+        "FOB": 1.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-S-W",
+        "Descripcion": "Panel Led Cuadrado 9W",
+        "FOB": 1.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-S-W",
+        "Descripcion": "Panel Led Cuadrado 9W",
+        "FOB": 1.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-S-W",
+        "Descripcion": "Panel Led Cuadrado 9W",
+        "FOB": 1.48,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-S-W",
+        "Descripcion": "Panel Led Cuadrado 9W",
+        "FOB": 1.48,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-9-S-W",
+        "Descripcion": "Panel Led Cuadrado 9W",
+        "FOB": 1.48,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.17,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.17,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.17,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.66,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-S-W",
+        "Descripcion": "Panel Led Cuadrado 15W",
+        "FOB": 1.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-S-W",
+        "Descripcion": "Panel Led Cuadrado 15W",
+        "FOB": 1.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-S-W",
+        "Descripcion": "Panel Led Cuadrado 15W",
+        "FOB": 1.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-S-W",
+        "Descripcion": "Panel Led Cuadrado 15W",
+        "FOB": 2.01,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-S-W",
+        "Descripcion": "Panel Led Cuadrado 15W",
+        "FOB": 2.01,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-15-S-W",
+        "Descripcion": "Panel Led Cuadrado 15W",
+        "FOB": 2.01,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 1.58,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 1.58,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 1.58,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.12,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.12,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.12,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 2.73,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 2.73,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 2.73,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.25,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.25,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPR-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.25,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPR-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.01,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.01,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.01,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.31,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.31,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-R-W",
+        "Descripcion": "Panel Led Redondo 6W",
+        "FOB": 1.31,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.77,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.77,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 1.77,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 2.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 2.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-R-W",
+        "Descripcion": "Panel Led Redondo 18W",
+        "FOB": 2.07,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.82,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.82,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 2.82,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 3.02,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 3.02,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-R-W",
+        "Descripcion": "Panel Led Redondo 24W",
+        "FOB": 3.02,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.54,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.54,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.54,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-S-W",
+        "Descripcion": "Panel Led Cuadrado 12W",
+        "FOB": 1.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.04,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.04,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.04,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-18-S-W",
+        "Descripcion": "Panel Led Cuadrado 18W",
+        "FOB": 2.35,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.12,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.12,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.12,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.32,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.32,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-24-S-W",
+        "Descripcion": "Panel Led Cuadrado 24W",
+        "FOB": 3.32,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.02,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.02,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.02,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.32,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.32,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-6-S-W",
+        "Descripcion": "Panel Led Cuadrado 6W",
+        "FOB": 1.32,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937130637 - Welfull-LPS-S.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-CC-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W",
+        "FOB": 6.54,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-CC-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W",
+        "FOB": 6.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-CC-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W",
+        "FOB": 6.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-BB-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W 100LM\/W PF>0,9",
+        "FOB": 7.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-BB-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W 100LM\/W PF>0,9",
+        "FOB": 7.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-BB-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W 100LM\/W PF>0,9",
+        "FOB": 7.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-CC-W",
+        "Descripcion": "Panel Led 6060 40W Sidelight 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 7.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-CC-W",
+        "Descripcion": "Panel Led 6060 40W Sidelight 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 7.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-CC-W",
+        "Descripcion": "Panel Led 6060 40W Sidelight 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 7.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-CC-W",
+        "Descripcion": "Panel Led 6060 Sidelight 48W 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 7.95,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-CC-W",
+        "Descripcion": "Panel Led 6060 Sidelight 48W 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 7.95,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-CC-W",
+        "Descripcion": "Panel Led 6060 Sidelight 48W 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 7.95,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-CC-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 9.63,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-CC-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 9.63,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-CC-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 80LM\/W FP>0,5 MS Diffusor",
+        "FOB": 9.63,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 40W 100LM\/W PF>0,9",
+        "FOB": 9.97,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 40W 100LM\/W PF>0,9",
+        "FOB": 9.97,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 40W 100LM\/W PF>0,9",
+        "FOB": 9.97,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 48W 100LM\/W PF>0,9",
+        "FOB": 10.40,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 48W 100LM\/W PF>0,9",
+        "FOB": 10.40,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 48W 100LM\/W PF>0,9",
+        "FOB": 10.40,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 100LM\/W PF>0,9",
+        "FOB": 11.92,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 100LM\/W PF>0,9",
+        "FOB": 11.92,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-BB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 100LM\/W PF>0,9",
+        "FOB": 11.92,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,5 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.70,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.70,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-LPS-12-R-W",
+        "Descripcion": "Panel Led Redondo 12W",
+        "FOB": 1.70,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201921100621 - Welfull-LPS-WR.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Factor de Potencia: >0,9 "
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-ELACC-001",
+        "Descripcion": "Marco para Montar Panel LED 6060",
+        "FOB": 2.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201948231148 - Welfull-Accesorios-Mounting Frame 1.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201948231148 - Welfull-Accesorios-Mounting Frame 2.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201948231148 - Welfull-Accesorios-Mounting Frame 3.png"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-ELACC-002",
+        "Descripcion": "Kit de Instalación Soporte Panel LED 6060 Colgante",
+        "FOB": 0.99,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949231149 - Welfull-Accesorios-Suspension Wire.png"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-ELACC-003",
+        "Descripcion": "Kit para Embutir Panel LED 6060",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949231149 - Welfull-Accesorios-Spring.png"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-CB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 40W 100LM\/W FP>0,5 MS Diffusor",
+        "FOB": 8.33,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-CB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 40W 100LM\/W FP>0,5 MS Diffusor",
+        "FOB": 8.33,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-40-CB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 40W 100LM\/W FP>0,5 MS Diffusor",
+        "FOB": 8.33,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-CB-W",
+        "FOB": 8.99,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-CB-W",
+        "FOB": 8.99,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-48-CB-W",
+        "FOB": 8.99,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-CB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 100LM\/W FP>0,5 MS Diffusor",
+        "FOB": 10.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-CB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 100LM\/W FP>0,5 MS Diffusor",
+        "FOB": 10.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-EL6060-60-CB-W",
+        "Descripcion": "Panel Led 6060 Sidelight 60W 100LM\/W FP>0,5 MS Diffusor",
+        "FOB": 10.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915101215 - Welfull-LP6060 Sidelight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-CB-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W 100LM\/W PF>0,9",
+        "FOB": 6.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-CB-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W 100LM\/W PF>0,9",
+        "FOB": 6.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "AY-BL6060-48-CB-W",
+        "Descripcion": "Panel Led 6060 Backlight 48W 100LM\/W PF>0,9",
+        "FOB": 6.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914101214 - Welfull-LP6060 Backlight.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      }
+    ]
+  }
+]

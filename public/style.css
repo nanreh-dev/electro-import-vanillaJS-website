@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+html,body{
+    height: 100%;
+}
+.fondoBarco{
+    position:absolute;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background: url("imagenes/background01Dark.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.aviso{
+ background-color: red;
+ padding: 10px;
+ border-radius: 10px;
+ color: var(--light);
+ margin-top: 10px;
+}
+
+/* navegacion */
+header{
+    z-index: 1500;
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+.navbar{
+    border-bottom: 1px solid #d9d9da;
+}
+.navbar-toggler{
+    border: none;
+}
+.navbarFalso{
+    height: 55px;
+    margin-bottom: 16rem;
+    background: #f8f9fa;
+}
+.hamburguesa{
+    font-size: 2rem;
+}
+.hamburguesa:hover{
+    color: rgba(0,0,0,.7);
+}
+.dropdown-item:hover{
+    background: #b8e7ee;
+}
+.tamanoIconosNav{
+    font-size: 1.2rem;
+}
+.dropdown-toggle::after{
+    font-size: 1rem;
+    /* color: #17a2b8; */
+}
+.cambiaCaret.dropdown-toggle::after{
+    border-top: 0;
+    border-bottom: .3em solid;
+}
+.itemsFooter{
+    font-family: 'Roboto', serif;
+    /* font-weight: bold; */
+    font-size: 1rem;
+    color:#7c7c7d;
+}
+.itemsFooter:hover{
+    color:#39393a;
+}
+.itemsSoloHambur{
+    display:none;
+}
+#scrollBtn{
+    position: fixed;
+    background: #6c757d; /* secondary */
+    color: #f8f9fa;
+    font-size: 25px;
+    border-radius: 50%;
+    display: flex;
+    visibility: hidden;
+    flex-direction: column;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    box-shadow: #39393a;
+    right: 3px;
+    top: calc(100vh - 100px); 
+}
+#scrollBtn:hover{
+    background: #5d666e; /* hover secondary */
+}
+#scrollBtn.scrollVisible{
+    visibility: visible;
+}
+
+
+/* info principal*/
+.tituloContainer{
+    position:relative;
+    z-index: 999;
+}
+.titulo{
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.tituloChico{
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+.tituloMasChico{
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+.infoTitulo{
+    font-family: 'Roboto', serif;
+    font-size: 1.12rem;
+}
+.infoTituloNosotros{
+    font-family: 'Roboto', serif;
+    font-size: 1.12rem;
+    line-height: 1.9rem;
+}
+.infoContenedor{
+    width: 95%;
+    border-radius: 1rem 1rem 0 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+.infoIconos{
+    font-size: 3.85rem;
+}
+.infoSubtitulos{
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 1.12rem;
+}
+.info{
+    max-width: 360px;
+    margin: 0 auto;
+}
+.on_of{
+    display: none;
+}
+.fondoGestion{
+    width: 100%;
+    height: 100%;
+    background: url("imagenes/background02Filtro.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.relleno{
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.7em;
+    padding-top: 15px;
+}
+.borde-derecho{
+    border-right: 1px solid #f8f9fa;
+}
+
+
+/* info secciones */
+.miModal{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0px;
+    display:none;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 999;
+}
+.miModalMargen{
+    margin-top: 70px;
+}
+.miModalContainer{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.cerrarModal{
+    padding: 0px;
+    margin-top: 56px;
+}
+.nosotrosIconos{
+    line-height: 1.9rem;
+    margin:0 5px 0 0;
+}
+.modalLogin{
+    width: 370px;
+    margin:auto;
+}
+.form-control::placeholder{
+  color: white;
+}
+
+
+@media (max-width: 576px) {  
+    .titulo{
+        font-size: 1.8rem;
+    }
+    .tituloChico{
+        font-size: 1.2rem;
+        line-height: 1.1rem;
+    }
+    .infoTitulo{
+       font-size: 1rem;
+       line-height: 1.1rem;
+    }
+    .infoTituloNosotros{
+        font-size: .95rem;
+        line-height: 1.3rem;
+    }
+    .infoIconos{
+        font-size: 3rem;
+    }
+    .infoSubtitulos{
+        font-size: 1rem;
+    }
+    .relleno{
+        font-size: 1.2rem;
+        line-height: 1.7em;
+        padding-top: 15px;
+    }
+    .modalLogin{
+        width: 310px;
+    }  
+}
+
+/* solo para las linea blancas de info */
+@media (max-width: 767px){
+    .borde-derecho-sm{
+        border-right: none;
+    }
+    .borde-abajo-sm{
+        border-bottom: 1px solid #f8f9fa;
+    }
+    /* .itemsFooter{
+        display:none;
+    } */
+}
+
+/* fotter y hambur */
+@media (max-width: 991px){
+    .itemsFooter{
+        display:none;
+    }
+    .itemsSoloHambur{
+        display:inline;
+    }
+}

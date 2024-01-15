@@ -1,0 +1,77 @@
+{
+  "cerrados": [
+    {
+      "Nombre": "Luminaria HIGH BAY (UFO) MAY-2020",
+      "Descripcion": "Equipos HIGH BAY de última generación de Alta Eficiencia y con sistema de Antideslumbramiento"
+    },
+    {
+      "Nombre": "Proyectores (Floodlights) JUN-2020",
+      "Descripcion": "Proyectores con y sin sensor. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior."
+    },
+    {
+      "Nombre": "Lámparas JUN-2020"
+    },
+    {
+      "Nombre": "Paneles, Tubos y Tortugas SEP-2020",
+      "Descripcion": "Paneles 6060. Paneles de embutir y aplicar. Downlight. Tubos. Tortugas."
+    }
+  ],
+  "abiertos": [
+    {
+      "Nombre": "Luminaria HIGH BAY (UFO) ENE-2020",
+      "Descripcion": "Equipos HIGH BAY de última generación de Alta Eficiencia y con sistema de Antideslumbramiento"
+    },
+    {
+      "Nombre": "Proyectores (Floodlights)  MAR-2020",
+      "Descripcion": "Proyectores con y sin sensor. Cuerpo de aluminio inyectado. Driver con fuente de switching IC. 100% de la potencia nominal. Uso Exterior."
+    },
+    {
+      "Nombre": "Lámparas MAR-2020"
+    },
+    {
+      "Nombre": "Paneles, Tubos y Tortugas MAR-2020",
+      "Descripcion": "Paneles 6060. Paneles de embutir y aplicar. Downlight. Tubos. Tortugas."
+    },
+    {
+      "Nombre": "Embarque Test"
+    }
+  ],
+  "destacados": [
+    {
+      "Modelo": "HB02-240",
+      "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia",
+      "Fotos": [
+        {
+          "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+        }
+      ]
+    },
+    {
+      "Modelo": "HB02-240-D",
+      "Descripcion": "Luminaria High Bay (UFO) Alta Eficiencia - Dimmerizable",
+      "Fotos": [
+        {
+          "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201922150722 - Cengo-ZHNSA 100-150-200-240.png"
+        }
+      ]
+    },
+    {
+      "Modelo": "HB01-240-D",
+      "Descripcion": "Luminaria High Bay (UFO) Antideslumbramiento - Dimmerizable",
+      "Fotos": [
+        {
+          "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201915150715 - Cengo-ZHN.png"
+        }
+      ]
+    },
+    {
+      "Modelo": "NK-A60-9-E",
+      "Descripcion": "Lámpara A60 9W",
+      "Fotos": [
+        {
+          "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+        }
+      ]
+    }
+  ]
+}

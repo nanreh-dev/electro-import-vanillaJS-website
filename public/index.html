@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex" />
+    <meta name="google-site-verification" content="yeAyVpramc18G4L16K55ikWWKnA3E7B2Qyg44U4KjO0" />
+    <title>ElectroImport</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <!-- sdk google -->
+    <!-- <meta name="google-signin-client_id" content="265384223644-nhkp2a7jchkm96a9b149hirpuecl3bta.apps.googleusercontent.com">
+    <script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script> -->
+    <!-- sdk facebook -->
+    <!-- <script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v11.0&appId=330829615313064&autoLogAppEvents=1"></script> -->
+
+    <!-- online -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+    <!-- produccion -->
+    <!-- <link rel="stylesheet" href="./bootstrap-4.5.3-dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css">
+
+</head>
+
+<!-- fondo -->
+
+<body class="barco">
+
+    <!-- navegacion -->
+    <header id="navegacion" class="fixed-top w-100">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+            <div class="container">
+                <a class="navbar-brand cierraContainer cierraHambur" href="#">ElectroImport</a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar">
+                    <i class="material-icons hamburguesa">menu</i>
+                </button>
+                <div class="navbar-collapse collapse cierraHambur" id="navbar">
+                    <ul class="navbar-nav ml-auto" id="contenedorItemsNav">
+                        <li class="nav-item"><a class="nav-link cierraHambur contenidoModal" id="nosotros"
+                                href="#nosotrosInfo">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link cierraHambur contenidoModal" id="unirse"
+                                href="#unirseInfo">Unirse</a></li>
+                        <li class="nav-item"><a class="nav-link cierraHambur contenidoModal" id="contacto"
+                                href="#contactoInfo">Contacto</a></li>
+                        <li class="nav-item"><a id="ingresar"
+                                class="btn btn-secondary text-light nav-link cierraHambur contenidoModal" href="#loginInfo"><i
+                                    class="material-icons align-text-bottom pr-1 tamanoIconosNav">login</i>Ingresar</a>
+                        </li>
+                        <!-- items hambur -->
+                        <div class="itemsSoloHambur"><hr></div>
+                        <li class="nav-item dropdown itemsSoloHambur"><a class="nav-link dropdown-toggle" data-toggle="dropdown"
+                                href="#">Legales</a>
+                            <div class="dropdown-menu"><a class="dropdown-item cierraHambur contenidoModal"
+                                    href="#terminosycondicionesInfo">Términos y
+                                    Condiciones</a><a class="dropdown-item cierraHambur contenidoModal"
+                                    href="#politicasdeprivacidadInfo">Políticas de Privacidad</a></div>
+                        </li>
+                        <li class="nav-item dropdown itemsSoloHambur"><a class="nav-link" data-toggle="dropdown" href="#"><i
+                                    class="material-icons dropdown-toggle d-inline align-text-bottom tamanoIconosNav">language</i></a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item cierraHambur" href="#" onClick="getData()">Español</a>
+                                <a class="dropdown-item cierraHambur" href="#">English</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- boton scroll -->
+        <div id="scrollBtn" class=""><i class="mdi mdi-chevron-up scrollBtn"></i></div>
+    </header>
+
+    <div class="navbarFalso"></div>
+
+    <!-- titulo -->
+    <div class="container tituloContainer">
+        <h1 class="text-light titulo">ELECTROIMPORT</h1>
+        <h1 class="text-light titulo">Un nuevo CONCEPTO en IMPORTACION</h1>
+        <p class="text-light infoTitulo">Plataforma de negocios para la globalización del mercado eléctrico.
+            Competitividad y confiabilidad al alcance de los distribuidores. Ahora podés.</p>
+    </div>
+
+    <div class="fondoBarco"></div>
+
+    <!-- info -->
+    <div class="container-fluid bg-light infoContenedor">
+        <div class="container">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col-md-8">
+                    <h2 class="text-center mt-2 mt-md-3 mb-2 mb-md-3 titulo">Concepto</h2>
+                    <h5 class="text-center infoTitulo">ELECTRO IMPORT es una plataforma digital que permite a los
+                        distribuidores de materiales eléctricos acceder a comprar productos en el exterior de manera
+                        simple,
+                        confiable y eficiente. Son nuestras premisas:</h5>
+                </div>
+                <div class="col"></div>
+            </div>
+            <div class="pt-md-5 pt-3">
+                <div class="row">
+                    <!-- acesso mercado global -->
+                    <div class="col-md-6">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="text-center">
+                                <i class="text-info material-icons infoIconos">language</i>
+                                <h4 class="text-center infoSubtitulos">Acceso al Mercado Global</h4>
+                                <p class="infoTitulo h6">Simplificar el acceso de los distribuidores de materiales
+                                    eléctricos a proveedores en el mercado global minimizando riesgos y costos.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- nuevas tecnologias -->
+                    <div class="col-md-6">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="text-center">
+                                <i class="text-success material-icons infoIconos">fiber_new</i>
+                                <h4 class="text-center infoSubtitulos">Nuevas Tecnologías</h4>
+                                <p class="infoTitulo h6">Acelerar la penetración en el mercado de nuevas tecnologías.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- mejores condiciones -->
+                    <div class="col-md-6">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="text-center">
+                                <i class="text-danger material-icons infoIconos">launch</i>
+                                <h4 class="text-center infoSubtitulos">Mejores Condiciones</h4>
+                                <p class="infoTitulo h6">Mejorar la competitividad y rentabilidad de las empresas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- fob -->
+                    <div class="col-md-6">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="text-center">
+                                <i class="text-warning material-icons infoIconos">directions_boat</i>
+                                <h4 class="text-center infoSubtitulos">FOB</h4>
+                                <p class="infoTitulo h6">Comercializar exclusivamente en condición F.O.B.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- pie concepto -->
+                    <div class="col bg-info rounded-lg">
+                        <h3 class="text-center text-light pt-2 pb-1 pt-md-3 pb-md-2 infoSubtitulos">ELECTROIMPORT
+                            concentra su actividad en productos que no se fabrican en el país, alentando en lo que esté
+                            a su
+                            alcance el desarrollo de la industria electrónica, electromecánica y luminotécnica nacional.
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- gestion -->
+        <div class="container mt-4 py-md-4 fondoGestion">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col-md-8">
+                    <h2 class="text-light text-center mt-2 mt-md-3 mb-2 mb-md-3 titulo">Gestión</h2>
+                </div>
+                <div class="col"></div>
+            </div>
+            <div class="pt-md-5 pt-3">
+                <div class="row">
+                    <!-- asesoramiento -->
+                    <div class="col-md-4 border-bottom borde-derecho borde-derecho-sm">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="mdi mdi-briefcase-check text-light infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Asesoramiento</h4>
+                                <p class="text-light infoTitulo h6">Asesoramos y acompañamos a los distribuidores en el
+                                    cumplimiento de las formalidades requeridas para poder operar como importadores.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- certificacion -->
+                    <div class="col-md-4 border-bottom borde-derecho borde-derecho-sm">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-certificate infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Certificación</h4>
+                                <p class="text-light infoTitulo h6">Resolvemos los procesos de certificaciones y ensayos
+                                    obligatorios y/o voluntarios de los productos.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- mas competitividad -->
+                    <div class="col-md-4 border-bottom">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-chart-areaspline infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Más Competitividad</h4>
+                                <p class="text-light infoTitulo h6">Mejoramos la competitividad en base a grandes
+                                    volúmenes de compra.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- calidad -->
+                    <div class="col-md-4 border-bottom borde-derecho borde-derecho-sm">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-eye-outline infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Calidad</h4>
+                                <p class="text-light infoTitulo h6">Mantenemos un alto estándar de calidad auditando y
+                                    supervisando las fábricas vinculadas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- relleno -->
+                    <div class="col-md-4 border-bottom borde-derecho borde-derecho-sm">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <h4 class="text-light text-center relleno">En ELECTROIMPORT gestionamos todos los
+                                    procesos requeridos para importar productos eléctricos de calidad de manera segura.
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- stock -->
+                    <div class="col-md-4 border-bottom">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-all-inclusive infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Stock Continuo</h4>
+                                <p class="text-light infoTitulo h6">Simplificamos el aprovisionamiento mediante
+                                    programas de suministro que aseguren la continuidad de los stocks. Las empresas
+                                    incorporadas pueden acceder a compras con periodicidad predeterminada.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- costos menores -->
+                    <div class="col-md-4 borde-derecho borde-derecho-sm borde-abajo-sm">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-currency-usd infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Costos Menores</h4>
+                                <p class="text-light infoTitulo h6">Bajamos costos mediante la optimización de los
+                                    procesos de almacenamiento y logística.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- proceso asegurado -->
+                    <div class="col-md-4 borde-derecho borde-derecho-sm borde-abajo-sm">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-book-lock infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Proceso Asegurado</h4>
+                                <p class="text-light infoTitulo h6">Garantizamos buenas prácticas en todas las etapas
+                                    del proceso de importación.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ultima tecnologia -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 pt-md-5 pb-md-3 info">
+                            <div class="text-center">
+                                <i class="text-light mdi mdi-alert-decagram infoIconos"></i>
+                                <h4 class="text-light text-center infoSubtitulos">Ultima Tecnología</h4>
+                                <p class="text-light infoTitulo h6">Actualizamos permanentemente el portfolio de
+                                    productos manteniéndonos a la delantera en novedades y lanzamientos.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- pie de pagina -->
+        <footer class="container mt-3 px-0 py-0 py-md-3 d-flex justify-content-between">
+            <ul class="nav">
+                <li class="nav-item"><a class="nav-link itemsFooter cierraContainer cierraHambur" href="#">ELECTROIMPORT</a></li>
+                <li class="nav-item dropdown"><a class="nav-link dropdown-toggle itemsFooter" data-toggle="dropdown"
+                    href="#">Legales</a>
+                <div class="dropdown-menu"><a class="dropdown-item cierraHambur contenidoModal" href="#terminosycondicionesInfo">Términos y
+                        Condiciones</a><a class="dropdown-item cierraHambur contenidoModal" href="#politicasdeprivacidadInfo">Políticas de Privacidad</a></div>
+                </li>
+                <li class="nav-item"><a class="nav-link itemsFooter cierraHambur contenidoModal" href="#contactoInfo">Contacto</a></li>
+                <li class="nav-item dropdown"><a class="nav-link itemsFooter" data-toggle="dropdown" href="#"><i class="material-icons dropdown-toggle d-inline align-text-bottom tamanoIconosNav">language</i></a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item cierraHambur" href="#">Español</a>
+                        <a class="dropdown-item cierraHambur" href="#">English</a>
+                    </div>
+                </li>
+            </ul>
+            <span class="nav-link h5 text-black-50">ElectroImport © 2021</span>
+        </footer>
+    </div>
+
+    <!-- modal carga paginas externas -->
+    <div class="miModal">
+        <!-- <div class="fixed-top cerrarModal"><button type="button" class="close pr-2" aria-label="Close">
+                <span class="cierraContainer" aria-hidden="true">&times;</span>
+        </div> -->
+        <div class="container-fluid bg-white miModalContainer">
+            <div class="container miModalMargen" id="miModalContainer">
+              <!-- contenido aqui  -->
+
+              <!-- info nosotros -->
+              <div class="infoModal on_of" id="nosotrosInfo">
+                  <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h5 class="text-center infoTituloNosotros mt-2 mt-md-3">Trabajamos con un equipo de profesionales que reúne años
+                            de experiencia en el mercado eléctrico, el comercio exterior y las plataformas digitales. Nuestra sinergia
+                            sintetiza a través de ELECTROIMPORT un nuevo formato de negocio en el que los distribuidores mejoran su
+                            rentabilidad y la calidad de su oferta, al mismo tiempo que los consumidores acceden a buenos productos con
+                            precios competitivos. Nos obsesiona la calidad y la eficiencia. Pensamos siempre en construir y mantener
+                            alianzas ganar-ganar de largo plazo.</h5>
+                        <h2 class="text-center mt-3 mt-md-4 mb-2 mb-md-3 tituloChico">ELECTROIMPORT es tu ALIADO</h2>
+                        <h5 class="text-center infoTituloNosotros mt-2 mt-md-3 mb-3 mb-md-4">Hacemos para vos el trabajo duro, invirtiendo tiempo y energía para hacer que tu negocio crezca.</h5>
+                    </div>
+                    <div class="col"></div>
+                              </div>
+                              <div class="row">
+                    <!-- observando tendencias -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="d-flex">
+                                <i class="mdi mdi-eye text-danger h1 nosotrosIconos"></i>
+                                <div><h4 class="infoSubtitulos m-0">Observando tendencias</h4>
+                                <p class="h6">Concurriendo a ferias, suscribiéndonos a foros de tecnología, escuchando a los expertos.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- monitoreando empresas lideres -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="d-flex">
+                                <i class="mdi mdi-target text-danger h1 nosotrosIconos"></i>
+                                <div><h4 class="infoSubtitulos m-0">Monitoreando empresas líderes</h4>
+                                <p class="h6">Observando portfolios de los big players, qué ofrecen, qué muestran, en qué innovan.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- estableciendo acuerdos -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="d-flex">
+                                <i class="mdi mdi-factory text-danger h1 nosotrosIconos"></i>
+                                <div><h4 class="infoSubtitulos m-0">Estableciendo acuerdos con fábricas</h4>
+                                <p class="h6">Para asegurar calidad, precio y cumplimiento.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                              </div>
+                              <div class="row">
+                    <!-- cooperando en los diseños -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="d-flex">
+                                <i class="mdi mdi-marker text-danger h1 nosotrosIconos"></i>
+                                <div><h4 class="infoSubtitulos m-0">Cooperando en los diseños</h4>
+                                <p class="h6">Aportando ingeniería propia para optimizar los diseños. Realizando adaptaciones al mercado local.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- respaldando distribuidores -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="d-flex">
+                                <i class="mdi mdi-target text-danger h1 nosotrosIconos"></i>
+                                <div><h4 class="infoSubtitulos m-0">Respaldando a los distribuidores</h4>
+                                <p class="h6">Tu negocio es nuestro negocio. Queremos que te vaya muy bien.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- dando soporte tecnico -->
+                    <div class="col-md-4">
+                        <div class="mb-3 mb-md-5 info">
+                            <div class="d-flex">
+                                <i class="mdi mdi-lifebuoy text-danger h1 nosotrosIconos"></i>
+                                <div><h4 class="infoSubtitulos m-0">Dando soporte técnico</h4>
+                                <p class="h6">Sabemos que vender productos eléctricos implica asesorar y ofrecer soluciones.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+
+              <!-- info unirse -->
+              <div class="infoModal on_of" id="unirseInfo">
+                <div class="row">                    
+                    <div class="col-md-6 mt-1 mt-md-3">
+                        <div class="info">
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="material-icons h2 text-danger">assignment_late</i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0">Requisitos</h4>
+                                    <p class="mb-3 mb-md-5">Para participar tenés que estar inscripto como Importador y no presentar bloqueos en la AFIP que te impidan operar. Si no estás incripto, te asesoramos en todo el proceso para que te des de alta como importador en la AFIP.</p>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="material-icons h2 text-success">new_releases</i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0">Beneficios</h4>
+                                    <p class="mb-3 mb-md-5">Mantene tu portfolio de productos siempre a la delantera en novedades y lanzamientos, con un alto estándar de calidad asegurado.</p>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="material-icons h2 text-info">question_answer</i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0">¿Tenés alguna duda?</h4>
+                                    <p class="mb-3 mb-md-5">Contáctanos para poder responder todas tus preguntas y despejar tus dudas.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-1 mt-md-3">
+                        <h4 class="text-center mb-1 tituloMasChico">Registrate con tu red social preferida</h4>
+                        <div class="d-flex justify-content-center p-3">
+                            <a href="#" class="mx-5"><img src="imagenes/google-icon.svg" alt="google" width="32" height="32"
+                                    class=""></a>
+                            <a href="#" class="mx-5"><img src="imagenes/facebook-icon.svg" alt="google" width="32" height="32"
+                                    class=""></a>
+                        </div>
+                        <h4 class="text-center tituloMasChico">o ingresá tus datos</h4>
+                        <form id="unirse" action="/login" method="post">
+                            <div class="form-group mb-1 mb-md-3">
+                                <label class="mb-1">Nombre</label>
+                                <input type="text" class="form-control" name="unirseNombre">
+                            </div>
+                            <div class="form-group mb-1 mb-md-3">
+                                <label class="mb-1">E-mail</label>
+                                <input type="email" class="form-control" name="unirseEmail">
+                            </div>
+                            <div class="form-group mb-1 mb-md-3">
+                                <label class="mb-1">Razón Social</label>
+                                <input type="text" class="form-control" name="unirseRazon">
+                            </div>
+                            <div class="form-group mb-1 mb-md-3">
+                                <label class="mb-1">Teléfono</label>
+                                <input type="text" class="form-control" name="unirseTel">
+                            </div>
+                            <div class="form-group mb-1 mb-md-3">
+                                <label class="mb-1">Teléfono para WhatsApp</label>
+                                <input type="text" class="form-control" name="unirseWhatsapp">
+                            </div>
+                            <div class="form-group mb-1 mb-md-3">
+                                <label class="mb-1">CUIT</label>
+                                <input type="text" class="form-control" name="unirsCuit">
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <button type="submit" class="btn btn-info mt-1 mt-md-3 cierraContainer">ENVIAR</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+              </div>
+
+              <!-- info contacto -->
+              <div class="infoModal on_of" id="contactoInfo">
+                <h3 class="tituloChico">Envianos un Mensaje</h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="mb-3 mb-md-5">Nos podés contactar por cualquier tema relacionado con la operatoria o consulta que tengas. Te responderemos tan pronto como sea posible.</p>
+                        <form id="contacto" method="post">
+                            <div class="form-group mb-2">
+                                <label class="mb-1">Nombre</label>
+                                <input type="text" class="form-control" name="contactoNombre">
+                            </div>
+                            <div class="form-group mb-3">
+                                <label class="mb-1">E-mail</label>
+                                <input type="email" class="form-control" name="contactoEmail">
+                            </div>
+                            <div class="form-group mb-3">
+                                <label class="mb-1">Teléfono</label>
+                                <input type="text" class="form-control" name="contactoTel">
+                            </div>
+                            <div class="form-group mb-3">
+                                <label class="mb-1">Tu Mensaje</label>
+                                <textarea class="form-control" name="contactoMensaje" rows="3"></textarea>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <button type="submit" class="btn btn-info mb-5 cierraContainer">ENVIAR</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="info">
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="material-icons h2 text-info">pin_drop</i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0 pt-1">Domicilio</h4>
+                                    <p>Anónimo</p>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="material-icons h2 text-info">email</i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0 pt-1">Consultas Generales por eMail</h4>
+                                    <p><a href="mailto:info@ElectroImport.com" class="text-secondary">info@electroimport.com</a></p>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="mdi mdi-briefcase-check h2 text-info"></i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0 pt-1">Consultas y Trámites Aduaneros</h4>
+                                    <p class="mb-2"><a href="mailto:marta.brautigam@gmail.com" class="text-secondary">Marta E. Anónimo</a><br>
+                                    Celular: <a href="" class="text-secondary">+54 11 1234-5678</a></p>
+                                    <p><a href="mailto:alejandro.potter@outlook.es" class="text-secondary">Alejandro N. Anónimo</a><br>
+                                    Celular: <a href="" class="text-secondary">+54 11 1234-5678</a></p>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-row">
+                                <div class="">
+                                    <i class="mdi mdi-cellphone-iphone h2 text-info"></i>
+                                </div>
+                                <div class="pl-2">
+                                    <h4 class="infoSubtitulos mb-0 pt-1">Consultas Generales Operativas:</h4>
+                                    <p class="mb-2"><a href="mailto:info@ElectroImport.com" class="text-secondary">Guillermo de Anónimo</a><br>
+                                    Celular: <a href="" class="text-secondary">+54 11 1234-5678</a></p>        
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+
+              <!-- info terminos y condiciones -->
+              <div class="infoModal on_of" id="terminosycondicionesInfo">
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-center mt-2 mt-md-3 mb-2 mb-md-3 titulo">TERMINOS Y CONDICIONES</h2>
+                        <h5 class="text-justify infoTitulo">Este sitio web se destina exclusivamente a brindar información no
+                            vinculante, para simple consulta, sin generar obligación alguna para las partes. Únicamente
+                            luego del ingreso con usuario válido y contraseña se accederá al servicio exclusivo para
+                            clientes del sitio.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="pt-md-5 pt-3">
+                    <div class="row">
+                    </div>
+                </div>
+              </div>
+
+              <!-- info politicas de privacidad -->
+              <div class="infoModal on_of" id="politicasdeprivacidadInfo">
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">POLITICAS DE PRIVACIDAD</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">La presente Política de Privacidad de Datos, tiene por objeto poner en
+                            conocimiento de los Usuarios los alcances de la protección integral de sus datos personales asentados en los
+                            archivos; registros; bancos o bases de datos; u otros medios técnicos de tratamiento de datos implementados por
+                            ELECTROIMPORT LIMITED (“ELECTROIMPORT”), asegurando el respeto al derecho a la intimidad de las personas, así
+                            como también al libre acceso a la información que sobre las mismas pueda eventualmente registrarse.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo"> Este documento es parte integrante de los Términos y Condiciones
+                            Generales de ELECTROIMPORT. Mediante la aceptación de los Términos y Condiciones Generales en el momento de la
+                            registración el usuario acepta las políticas aquí contenidas.
+                            Esta Política de Privacidad refiere a los siguientes aspectos: </h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Esta Política de Privacidad refiere a los siguientes aspectos:</h5>
+                    
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">01 RECOPILACION DE DATOS PERSONALES A TRAVES DE LA PAGINA WEB</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Lo primero que se debe hacer para operar en ELECTROIMPORT es registrarse, suministrando ciertos datos personales ("Información Personal") y comerciales (“Información Comercial”) completos y exactos. Podremos solicitar, recabar y almacenar la siguiente Información Personal: nombre, número de documento o identificación válida, información física de contacto (como número de teléfono domicilio, dirección de e-mail, etc.). ELECTROIMPORT podrá confirmar los datos suministrados acudiendo a entidades públicas, compañías especializadas o centrales de riesgo, para lo cual nos autorizas expresamente. La información que ELECTROIMPORT obtenga de estas entidades será tratada en forma confidencial. </h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">El Usuario que se registre en ELECTROIMPORT a través de su cuenta personal en una red social ("Cuenta Personal"), o de cualquier modo acceda a ELECTROIMPORT a través de su Cuenta Personal, consiente expresamente que ELECTROIMPORT tenga acceso, en cualquier momento, a la totalidad de la información contenida en su Cuenta Personal, incluyendo en particular, pero sin limitación, a su Información Personal y cualquier otro contenido alojado en su Cuenta Personal.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT recoge y almacena automáticamente cierta información sobre la actividad de los usuarios y visitantes dentro de su sitio web. Tal información puede incluir la URL de la que provienen (estén o no en nuestro sitio web), a qué URL acceden seguidamente (estén o no en nuestro sitio web), qué navegador están usando, y sus direcciones IP. También las páginas visitadas y las búsquedas realizadas, entre otra información podrá ser almacenada y retenida.</h5>
+                    
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">02 DERECHOS DE ACCESO, CANCELACION Y RECTIFICACION DE LA INFORMACION PERSONAL</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Los usuarios tienen reconocidos y podrán ejercitar los derechos de acceder, cancelar y actualizar su Información Personal, así como a oponerse al tratamiento de la misma y a ser informado de las cesiones llevadas a cabo, todo ello de conformidad a lo dispuesto en la normativa aplicable. Conforme se establece en el artículo 14, inciso 3 de la Ley Nº 25.326, el titular de los datos personales, previa acreditación de su identidad, tiene la facultad de ejercer el derecho de acceso a los mismos, dentro de los 10 (diez) días corridos desde la acreditación de su identidad, en forma gratuita a intervalos no inferiores a seis meses, salvo que se acredite un interés legítimo al efecto. Para la rectificación y supresión de los datos personales, el titular de los mismo podrá ejercer tales derechos dentro de los 5 (cinco) días hábiles de acreditada su identidad. </h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Los usuarios garantizan y responden, en cualquier caso, de la veracidad, exactitud, vigencia y autenticidad de la Información Personal facilitada, y se comprometen a mantenerla debidamente actualizada.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Una vez registrado en ELECTROIMPORT, el usuario podrá revisar y cambiar la información que ha enviado durante el proceso de registración. </h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Los usuarios deben actualizar su Información Personal periódicamente conforme vaya cambiando. Para hacer cualquier modificación en la información que suministrada en el momento de la Registración, se debe ingresar en la sección Datos Personales. </h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT podrá modificar en cualquier momento los términos y condiciones de estas Políticas de Privacidad y confidencialidad. Si decidimos introducir algún cambio material a nuestras Políticas de Privacidad, lo notificaremos publicando una versión actualizada de las Políticas en esta sección o mediante el envío de un e-mail o informándolo en la página principal u otras secciones del sitio para mantener al Usuario actualizado de los cambios realizados. </h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Si se realizaran cambios en la forma en que la Información Personal es administrada se notificará por e-mail para que el Usuario pueda tomar una decisión informada respecto si acepta o no que su Información Personal sea utilizada de esa forma. Si no acepta esos términos, en ese caso quedará disuelto el vínculo y la Información Personal no será usada de otra forma que la que fue informada al momento de recabarse.</h5>
+                        <h5 class="text-justify mb-md-3 d-inline infoTitulo">Para mayor información sobre la confidencialidad de la Información Personal, contactase por correo electrónico o postal según la información publicada en la sección de </h5><a href="#contactoInfo" class="h5 text-secondary font-weight-bolder mb-md-3 contenidoModal">Contacto</a><span class="text-justify mb-md-3 infoTitulo">.</span>
+                        <h5 class="text-justify my-md-3 infoTitulo">Se informa que la AGENCIA DE ACCESO A LA INFORMACIÓN PÚBLICA, Órgano de Control de la Ley Nº 25.326, tiene la atribución de atender las denuncias y reclamos que se interpongan con relación al incumplimiento de las normas sobre protección de datos personales.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">03 UTILIZACION DE LA INFORMACION RECOLECTADA</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Para suministrar un excelente servicio y para que los usuarios
+                            puedan realizar operaciones en forma ágil y segura, ELECTROIMPORT requiere cierta información de carácter
+                            personal, incluyendo dirección de e-mail. La recolección de información nos permite ofrecer a los usuarios
+                            servicios y funcionalidades que se adecuen mejor a sus necesidades y personalizar nuestros servicios para
+                            hacer que sus experiencias con ELECTROIMPORT sean lo más cómodas posible. La Información Personal que
+                            recabamos tiene las siguientes finalidades:</h5>
+                        <ul>
+                            <li>
+                                <h5 class="text-justify mb-md-3 infoTitulo">Desarrollar estudios internos sobre los intereses,
+                                    comportamientos y demografía de los usuarios para comprender mejor sus necesidades e intereses y
+                                    ofrecer mejores servicios o proveerles información relacionada.</h5>
+                            </li>
+                            <li>
+                                <h5 class="text-justify mb-md-3 infoTitulo">Mejorar las ofertas comerciales y promocionales que se
+                                    ofrecen en ELECTROIMPORT y analizar las páginas visitadas las búsquedas realizadas por los usuarios,
+                                    para mejorar la oferta de artículos.</h5>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">04 COOKIES</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">El usuario y el visitante del sitio Web de ELECTROIMPORT conoce y
+                            acepta que ELECTROIMPORT podrá utilizar un sistema de seguimiento mediante la utilización de cookies (las
+                            "Cookies"). Las Cookies son pequeños archivos que se instalan en el disco rígido, con una duración limitada
+                            en el tiempo que ayudan a personalizar los servicios. También ofrecemos ciertas funcionalidades que sólo
+                            están disponibles mediante el empleo de Cookies. Las Cookies se utilizan con el fin de conocer los
+                            intereses, el comportamiento y la demografía de quienes visitan o son usuarios de nuestro Sitio Web y de esa
+                            forma, comprender mejor sus necesidades e intereses y darles un mejor servicio o proveerle información
+                            relacionada.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Utilizamos adicionalmente las Cookies para que el usuario no tenga
+                            que introducir su clave tan frecuentemente durante una sesión de navegación, también para contabilizar y
+                            corroborar las registraciones, la actividad del usuario y otros conceptos para acuerdos comerciales, siempre
+                            teniendo como objetivo de la instalación de las Cookies, el beneficio del usuario que la recibe, y no será
+                            usado con otros fines ajenos a ELECTROIMPORT.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Se establece que la instalación, permanencia y existencia de las
+                            Cookies en el computador del usuario depende de su exclusiva voluntad y puede ser eliminada de su computador
+                            cuando el usuario así lo desee. Para saber cómo quitar las Cookies del sistema es necesario revisar la
+                            sección Ayuda (Help) del navegador.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Adicionalmente, se pueden encontrar Cookies u otros sistemas
+                            similares instalados por terceros en ciertas páginas de nuestro sitio Web. Por ejemplo, al navegar por una
+                            página creada por un usuario, puede que exista una Cookie emplazada en tal página.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Por último, ELECTROIMPORT almacena cookies para poder ofrecer una
+                            experiencia más interactiva en el sitio, basada en las acciones del usuario. El usuario puede, en cualquier
+                            momento, eliminar las cookies almacenadas, configurar el navegador para que solicite aprobación antes de
+                            almacenar cookies o directamente evitar que se almacenen cookies. Este procedimiento se realiza de forma
+                            diferente en los distintos navegadores y es necesario realizarlo en cada navegador que se utilice. A
+                            continuación ponemos a disposición los diferentes procedimientos para manejar esta configuración en los
+                            navegadores más utilizados. Puede consultar las guías de terceros sobre la gestión de cookies en:</h5>
+                        <ul>
+                            <li><a href="https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-sitios-web-rastrear-preferencias" class="h6 text-secondary font-weight-bolder mb-md-3" target="_blank" >Firefox</a></li>
+                            <li><a href="https://policies.google.com/technologies/cookies?hl=es#managing-cookies" target="_blank" class="h6 text-secondary font-weight-bolder mb-md-3">Chrome</a></li>
+                            <li><a href="https://support.microsoft.com/es-ar/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" class="h6 text-secondary font-weight-bolder mb-md-3">Internet Explorer</a></li>
+                            <li><a href="https://privacy.microsoft.com/es-mx/windows-10-microsoft-edge-and-privacy" target="_blank"  class="h6 text-secondary font-weight-bolder mb-md-3">Edge</a></li>
+                            <li><a href="http://support.apple.com/es-lamr/guide/safari/manage-cookies-andwebsite-data-sfri11471/mac" target="_blank"  class="h6 text-secondary font-weight-bolder mb-md-3">Safari</a></li>
+                            <li><a href="https://www.opera.com/es/privacy/cookies" target="_blank"  class="h6 text-secondary font-weight-bolder mb-md-3">Opera</a></li>
+                        </ul>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Si su navegador no figura en esta lista, le recomendamos realizar una búsqueda en Google utilizando términos como "administrar cookies" seguido del nombre del navegador.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Se aclara expresamente que estas políticas cubre la utilización de Cookies por este sitio y no la utilización de Cookies por parte de anunciantes. Nosotros no controlamos el uso de Cookies por terceros.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">05 WEB BEACONS</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Un Web beacon es una imagen electrónica, también llamada single-pixel (1 x 1) o pixel transparente, que es colocada en código de una página Web. Un Web beacon tiene finalidades similares a las Cookies. Adicionalmente un Web beacon es utilizado para medir patrones de tráfico de los usuarios de una página a otra con el objeto de maximizar como fluye el tráfico a través de la Web. El usuario y el visitante del sitio Web de ELECTROIMPORT conoce y acepta que ELECTROIMPORT podrá utilizar un sistema de seguimiento mediante la utilización de Web beacons.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">06 SPAM</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT y sus usuarios no aceptan conductas consideradas "spamming", ya sea en opiniones, preguntas, respuestas y/o el envío no solicitado de correos electrónicos. Queda absolutamente prohibido el envío indiscriminado de mensajes de cualquier naturaleza entre los usuarios de ELECTROIMPORT.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT podrá suspender o inhabilitar definitivamente a aquellos usuarios que violen esta política.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">07 ORDEN DE AUTORIDADES COMPETENTES. REQUERIMIENTOS LEGALES</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT coopera con las autoridades competentes y con otros terceros para garantizar el cumplimiento de las leyes, por ejemplo en materia de protección de derechos de propiedad industrial e intelectual, prevención del fraude y otras materias.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT podrá revelar la Información Personal de sus usuarios bajo requerimiento de la autoridades judiciales o gubernamentales competentes para efectos de investigaciones conducidas por ellas, aunque no exista una orden ni una citación ejecutiva o judicial, o por ejemplo (y sin limitación a este supuesto) cuando se trate de investigaciones de carácter penal o de fraude o las relacionadas con piratería informática o la violación de derechos de autor. En tales situaciones, ELECTROIMPORT colaborará con las autoridades competentes con el fin de salvaguardar la integridad y la seguridad de la Comunidad y la de sus usuarios.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT puede (y los usuarios lo autorizan expresamente) comunicar cualquier Información Personal sobre sus usuarios con la finalidad de cumplir la normativa aplicable y cooperar con las autoridades competentes en la medida en que discrecionalmente lo entendamos necesario y adecuado en relación con cualquier investigación de un ilícito o un fraude, infracción de derechos de propiedad industrial o intelectual, u otra actividad que sea ilegal o que pueda exponer a ELECTROIMPORT o a sus usuarios a cualquier responsabilidad legal. Además, podemos (y los usuarios lo autorizan expresamente) comunicar su nombre completo, domicilio, ciudad, región, código postal, país, número de teléfono, dirección de correo electrónico, etc. a los participantes en el Programa de Protección de Propiedad Intelectual de ELECTROIMPORT en la forma que, a nuestra discreción, entendamos necesaria o adecuada en relación con la investigación del fraude, infracción de derechos de propiedad industrial o intelectual, piratería, o cualquier otra actividad ilegal. Este derecho será ejercido por ELECTROIMPORT a efectos de cooperar con el cumplimiento y ejecución de la ley, independientemente que no exista una orden judicial o administrativa al efecto.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-md-8">
+                        <h2 class="text-left mt-2 mt-md-3 mb-1 mb-md-2 tituloChico">08 SEGURIDAD. ALMACENAMIENTO DE LA INFORMACION</h2>
+                        <h5 class="text-justify mb-md-3 infoTitulo">ELECTROIMPORT está obligado a cumplir con toda la normativa aplicable en materia de medidas de seguridad aplicables a la Información Personal. Adicionalmente, ELECTROIMPORT usa los estándares de la industria entre materia de protección de la confidencialidad de su Información Personal, incluyendo, en otras medidas, cortafuegos ("firewalls") y Secure Socket Layers ("SSL"). ELECTROIMPORT considera a los datos de sus usuarios como un activo que debe ser protegido de cualquier pérdida o acceso no autorizado. Empleamos diversas técnicas de seguridad para proteger tales datos de accesos no autorizados por usuarios de dentro o fuera de nuestra compañía. Sin embargo, es necesario tener muy en cuenta que la seguridad perfecta no existe en Internet.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">El usuario de ELECTROIMPORT conoce y acepta expresamente que ELECTROIMPORT, a su exclusivo criterio, recabe, almacene y monitoree el intercambio de mensajes y correos electrónicos entre sus usuarios, efectuado dentro de la comunidad de ELECTROIMPORT, con el objetivo de contribuir a la seguridad de las relaciones y comunicaciones en la comunidad.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Por ello, ELECTROIMPORT no se hace responsable por interceptaciones ilegales o violación de sus sistemas o bases de datos por parte de personas no autorizadas. MercadoLibre, tampoco se hace responsable por la indebida utilización de la información obtenida por esos medios.</h5>
+                        <h5 class="text-justify mb-md-3 infoTitulo">Todos los datos personales de los usuarios serán almacenados en un archivo automatizado de datos personales. El archivo de Datos Personales de los usuarios de ELECTROIMPORT reside en EE.UU. El usuario al registrarse en ELECTROIMPORT confirma que está informado de la residencia de este archivo y autoriza esta transferencia internacional de sus datos.</h5>
+                    </div>
+                    <div class="col"></div>
+                </div>
+              </div>
+
+              <!-- info login -->
+              <div class="infoModal on_of" id="loginInfo">
+                <div class="row  justify-content-center">                    
+                    <div class="col-md-6 mt-1 mt-md-3">
+                     <div class="aviso">
+                      <h2 class="text-center">IMPORTANTE!!</h2>
+                     <p>Esta página es sólo una versión reducida de la original a efectos de probar sus características.</p>
+                     <p class="text-center">Para ingresar sólo están habilitados 3 usuarios</p>
+                     <p class="text-center"><strong>Email: user1@mail.com, Contraseña: user1</strong></p>
+                     <p class="text-center"><strong>Email: user2@mail.com, Contraseña: user2</strong></p>
+                     <p class="text-center"><strong>Email: user3@mail.com, Contraseña: user3</strong></p>
+                     </div>
+                     <br>
+                        <form id="login" method="post">
+                            <div class="form-group modalLogin">
+                              <label>Email</label>
+                              <input name="loginEmail" type="email" class="form-control email" aria-describedby="">
+                              <label>Contraseña</label>
+                              <input name="loginPassword" type="password" placeholder="" class="form-control mb-3 mb-md-4 password">
+                            </div>
+                            <div>
+                                <button type="submit" class="btn btn-primary d-block m-auto">INGRESAR</button>
+                            </div>
+                        </form>
+                          <div class="mx-auto mb-1 mt-5">
+                            <p class=" text-center">Obtener una cuenta para operar  <a href="#unirseInfo" class="text-secondary cierraHambur " data-dismiss="modal"><i class="material-icons h3 m-0 align-top cierraHambur contenidoModal" data-info="#unirseInfo">group_add</i></a></p>
+                            <p class="mb-1"><a href="#olvidocontrasenaInfo" class="text-secondary d-block text-center cierraHambur contenidoModal" data-dismiss="modal">Te olvidaste la contraseña?</a></p>
+                        </div>
+                    </div>
+                </div>
+              </div>
+
+              <!-- olvido contraseña -->
+              <div class="infoModal on_of" id="olvidocontrasenaInfo">
+                <h3 class="tituloChico">Recuperar contraseña</h3>
+                <div class="row">
+                    <div class="col">
+                        <p class="mb-3 mb-md-5">Ingresá el correo con el que te registraste y te enviaremos un link para reestablecer tu contraseña.
+                            Recordá que si estás utilizando una red social para ingresar al sitio, ingresás directamente con las credenciales de tu red social.</p>
+                        <form>
+                            <div class="col col-xl-6 col-lg-7 col-md-9 m-auto recuperarContrasena">
+                                <label class="mb-1" for="">E-mail</label>
+                                <input type="email" class="form-control" placeholder="" id="">
+                                <div class="d-flex justify-content-center">
+                                    <button type="submit" class="btn btn-info mt-3 mt-md-4 cierraContainer">ENVIAR</button>
+                                </div>
+                            </div>                            
+                        </form>
+                    </div>
+                </div>
+              </div>
+
+            </div>
+            <!--  pie de pagina modal-->
+            <footer class="container mt-3 px-0 py-0 py-md-3 d-flex justify-content-between">
+                <ul class="nav">
+                    <li class="nav-item"><a class="nav-link itemsFooter cierraContainer cierraHambur" href="#">ELECTROIMPORT</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle itemsFooter" data-toggle="dropdown"
+                        href="#">Legales</a>
+                    <div class="dropdown-menu"><a class="dropdown-item cierraHambur contenidoModal" href="#terminosycondicionesInfo">Términos y
+                            Condiciones</a><a class="dropdown-item cierraHambur contenidoModal" href="#politicasdeprivacidadInfo">Políticas de Privacidad</a></div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link itemsFooter cierraHambur contenidoModal" href="#contactoInfo">Contacto</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link itemsFooter" data-toggle="dropdown" href="#"><i class="material-icons dropdown-toggle d-inline align-text-bottom tamanoIconosNav">language</i></a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item cierraHambur" href="#">Español</a>
+                            <a class="dropdown-item cierraHambur" href="#">English</a>
+                        </div>
+                    </li>
+                </ul>
+                <span class="nav-link h6 text-black-50">ElectroImport © 2021</span>
+            </footer>
+        </div>
+    </div>
+
+
+
+    <!-- online -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+
+    <!-- produccion -->
+    <!-- <script src="./bootstrap-4.5.3-dist/js/jquery-3.5.1.min.js"></script>
+    <script src="./bootstrap-4.5.3-dist/js/popper.min.js"></script>
+    <script src="./bootstrap-4.5.3-dist/js/bootstrap.min.js"></script> -->
+
+
+    <script src="main.js"></script>
+
+</body>
+
+</html>

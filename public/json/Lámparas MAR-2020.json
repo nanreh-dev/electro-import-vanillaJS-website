@@ -1,0 +1,2567 @@
+[
+  {
+    "Nombre": "Lámparas MAR-2020",
+    "Fecha_Cierre": "21\/12\/2021",
+    "Fecha_Arribo": "20\/3\/2021",
+    "Fecha_Embarque": "6\/2\/2021",
+    "Fecha_Desconsolidacion": "26\/3\/2021",
+    "ProductosEmbarque": [
+      {
+        "Modelo": "NK-F-S26-2-E",
+        "Descripcion": "Lámpara Filamento S26 2W",
+        "FOB": 1.30,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G45-4-E",
+        "Descripcion": "Lámpara Filamento G45 4W",
+        "FOB": 0.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201903150503 - Enshine-G45 Filament E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G45-4-14-E",
+        "Descripcion": "Lámpara Filamento G45 4W E14\r\n",
+        "FOB": 0.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-A60-6-E",
+        "Descripcion": "LAMPARA FILAMENTO A60 6W.",
+        "FOB": 0.83,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925140725 - Enshine-Filament A 60 8w.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-A60-8-E",
+        "Descripcion": "Lámpara Filamento A60 8W",
+        "FOB": 0.83,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925140725 - Enshine-Filament A 60 8w.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-ST64-6-E",
+        "Descripcion": "Lámpara Filamento ST64 6W",
+        "FOB": 0.87,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201905150705 - Engine-ST64 E27 Filament.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-ST64-8-E",
+        "Descripcion": "Lámpara Filamento ST64 8W",
+        "FOB": 0.87,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201905150705 - Engine-ST64 E27 Filament.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G95-8",
+        "Descripcion": "Lámpara Filamento G95 8W",
+        "FOB": 1.26,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901150701 - Enshine-G95 Filament E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G125-8-E",
+        "Descripcion": "Lámpara Filamento G125 8W",
+        "FOB": 1.72,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901150701 - Enshine-G95 Filament E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G125-8-E",
+        "Descripcion": "Lámpara Filamento G125 8W",
+        "FOB": 1.72,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901150701 - Enshine-G95 Filament E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Golden "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-S26-2-14-E",
+        "Descripcion": "Lámpara Filamento S26 2W E14",
+        "FOB": 1.30,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-C30L-4-E",
+        "Descripcion": "Lámpara Filamento C30L 4W",
+        "FOB": 1.34,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-C30L-4-14-E",
+        "Descripcion": "Lámpara Filamento C30L 4W",
+        "FOB": 1.34,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201953220753 - Enshine-Candle Tail Filament E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-C37-4-E",
+        "Descripcion": "Lámpara Filamento LED C37 4W",
+        "FOB": 0.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-C37-4-14-E",
+        "Descripcion": "Lámpara Filamento LED C37 4W",
+        "FOB": 0.56,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914261214 - Enshine-Candle Filament E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-C37-6-E",
+        "Descripcion": "Lámpara Filamento C37 6W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-C37-6-14-E",
+        "Descripcion": "Lámpara Filamento C37 6W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201914261214 - Enshine-Candle Filament E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G45-6-E",
+        "Descripcion": "Lámpara Filamento G45 6W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201928140728 - Enshine-G45 Filament E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-G45-6-14-E",
+        "Descripcion": "Lámpara Filamento G45 6W",
+        "FOB": 0.68,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-F-ST58-6-E",
+        "Descripcion": "Lámpara Filamento ST58 6W",
+        "FOB": 0.87,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Tinte: Clear "
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-5-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-5-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-5-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-5-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-7-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-7-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-7-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A55-7-E",
+        "Descripcion": "Lámpara A55 5W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201931270631 - Enshine-A50 A55 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-8-E",
+        "Descripcion": "Lámpara A60 8W",
+        "FOB": 0.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-8-E",
+        "Descripcion": "Lámpara A60 8W",
+        "FOB": 0.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-8-E",
+        "Descripcion": "Lámpara A60 8W",
+        "FOB": 0.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-8-E",
+        "Descripcion": "Lámpara A60 8W",
+        "FOB": 0.38,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-9-E",
+        "Descripcion": "Lámpara A60 9W",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-9-E",
+        "Descripcion": "Lámpara A60 9W",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-9-E",
+        "Descripcion": "Lámpara A60 9W",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-9-E",
+        "Descripcion": "Lámpara A60 9W",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-10-E",
+        "Descripcion": "Lámpara A60 10W",
+        "FOB": 0.41,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-10-E",
+        "Descripcion": "Lámpara A60 10W",
+        "FOB": 0.41,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-10-E",
+        "Descripcion": "Lámpara A60 10W",
+        "FOB": 0.41,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-10-E",
+        "Descripcion": "Lámpara A60 10W",
+        "FOB": 0.41,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-12-E",
+        "Descripcion": "Lámpara A60 12W",
+        "FOB": 0.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-12-E",
+        "Descripcion": "Lámpara A60 12W",
+        "FOB": 0.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-12-E",
+        "Descripcion": "Lámpara A60 12W",
+        "FOB": 0.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-12-E",
+        "Descripcion": "Lámpara A60 12W",
+        "FOB": 0.50,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-14-E",
+        "Descripcion": "Lámpara A60 14W",
+        "FOB": 0.55,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-14-E",
+        "Descripcion": "Lámpara A60 14W",
+        "FOB": 0.55,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-14-E",
+        "Descripcion": "Lámpara A60 14W",
+        "FOB": 0.55,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A60-14-E",
+        "Descripcion": "Lámpara A60 14W",
+        "FOB": 0.55,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201949140449 - Enshine-A60 E27 9W 12W.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A65-16-E",
+        "Descripcion": "Lámpara A65-16W",
+        "FOB": 0.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A65-16-E",
+        "Descripcion": "Lámpara A65-16W",
+        "FOB": 0.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A65-16-E",
+        "Descripcion": "Lámpara A65-16W",
+        "FOB": 0.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A65-16-E",
+        "Descripcion": "Lámpara A65-16W",
+        "FOB": 0.79,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A70-18-E",
+        "Descripcion": "Lámpara A70 18W",
+        "FOB": 0.85,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A70-18-E",
+        "Descripcion": "Lámpara A70 18W",
+        "FOB": 0.85,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A70-18-E",
+        "Descripcion": "Lámpara A70 18W",
+        "FOB": 0.85,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A70-18-E",
+        "Descripcion": "Lámpara A70 18W",
+        "FOB": 0.85,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A80-20-E",
+        "Descripcion": "Lámpara A80 20W",
+        "FOB": 1.18,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A80-20-E",
+        "Descripcion": "Lámpara A80 20W",
+        "FOB": 1.18,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A80-20-E",
+        "Descripcion": "Lámpara A80 20W",
+        "FOB": 1.18,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A80-20-E",
+        "Descripcion": "Lámpara A80 20W",
+        "FOB": 1.18,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924280524 - Enshine-A65 A70 A80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A95-25-E",
+        "Descripcion": "Lámpara A95 25W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937280537 - Enshine-A95 A120 A140 A160 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A95-25-E",
+        "Descripcion": "Lámpara A95 25W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937280537 - Enshine-A95 A120 A140 A160 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A95-25-E",
+        "Descripcion": "Lámpara A95 25W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937280537 - Enshine-A95 A120 A140 A160 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-A95-25-E",
+        "Descripcion": "Lámpara A95 25W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201937280537 - Enshine-A95 A120 A140 A160 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T50-5-E",
+        "Descripcion": "Lámpara T50 5W",
+        "FOB": 0.69,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T50-5-E",
+        "Descripcion": "Lámpara T50 5W",
+        "FOB": 0.69,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T50-5-E",
+        "Descripcion": "Lámpara T50 5W",
+        "FOB": 0.69,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T60-10-E",
+        "Descripcion": "Lámpara T60 10W",
+        "FOB": 0.91,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T60-10-E",
+        "Descripcion": "Lámpara T60 10W",
+        "FOB": 0.91,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T60-10-E",
+        "Descripcion": "Lámpara T60 10W",
+        "FOB": 0.91,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T80-20-E",
+        "Descripcion": "Lámpara T80 20W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T80-20-E",
+        "Descripcion": "Lámpara T80 20W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T80-20-E",
+        "Descripcion": "Lámpara T80 20W",
+        "FOB": 1.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T100-30-E",
+        "Descripcion": "Lámpara T100 30W",
+        "FOB": 1.77,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T100-30-E",
+        "Descripcion": "Lámpara T100 30W",
+        "FOB": 1.77,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T100-30-E",
+        "Descripcion": "Lámpara T100 30W",
+        "FOB": 1.77,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T120-40-E",
+        "Descripcion": "Lámpara T120 40W",
+        "FOB": 2.59,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T120-40-E",
+        "Descripcion": "Lámpara T120 40W",
+        "FOB": 2.59,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T120-40-E",
+        "Descripcion": "Lámpara T120 40W",
+        "FOB": 2.59,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201954280554 - Enshine-T-Series.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T160-60-E",
+        "Descripcion": "Lámpara T160 60W",
+        "FOB": 4.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T160-60-E",
+        "Descripcion": "Lámpara T160 60W",
+        "FOB": 4.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-T160-60-E",
+        "Descripcion": "Lámpara T160 60W",
+        "FOB": 4.21,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201930160530 - ComodinNakamura.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-27-E",
+        "Descripcion": "Lámpara G45 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-27-E",
+        "Descripcion": "Lámpara G45 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-27-E",
+        "Descripcion": "Lámpara G45 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-27-E",
+        "Descripcion": "Lámpara G45 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-27-E",
+        "Descripcion": "Lámpara C37 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-27-E",
+        "Descripcion": "Lámpara C37 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-27-E",
+        "Descripcion": "Lámpara C37 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-27-E",
+        "Descripcion": "Lámpara C37 4W E27",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-27-E",
+        "Descripcion": "Lámpara G45 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-27-E",
+        "Descripcion": "Lámpara G45 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-27-E",
+        "Descripcion": "Lámpara G45 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-27-E",
+        "Descripcion": "Lámpara G45 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-27-E",
+        "Descripcion": "Lámpara C37 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-27-E",
+        "Descripcion": "Lámpara C37 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-27-E",
+        "Descripcion": "Lámpara C37 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-27-E",
+        "Descripcion": "Lámpara C37 6W E27",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-27-E",
+        "Descripcion": "Lámpara G45 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-27-E",
+        "Descripcion": "Lámpara G45 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-27-E",
+        "Descripcion": "Lámpara G45 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-27-E",
+        "Descripcion": "Lámpara G45 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201906280706 - Enshine-G45 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-27-E",
+        "Descripcion": "Lámpara C37 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-27-E",
+        "Descripcion": "Lámpara C37 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-27-E",
+        "Descripcion": "Lámpara C37 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-27-E",
+        "Descripcion": "Lámpara C37 8W E27",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201918280718 - Enshine-C37 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-14-E",
+        "Descripcion": "Lámpara G45 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-14-E",
+        "Descripcion": "Lámpara G45 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-14-E",
+        "Descripcion": "Lámpara G45 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-4-14-E",
+        "Descripcion": "Lámpara G45 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-14-E",
+        "Descripcion": "Lámpara C37 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-14-E",
+        "Descripcion": "Lámpara C37 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-14-E",
+        "Descripcion": "Lámpara C37 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-4-14-E",
+        "Descripcion": "Lámpara C37 4W E14",
+        "FOB": 0.36,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-14-E",
+        "Descripcion": "Lámpara G45 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-14-E",
+        "Descripcion": "Lámpara G45 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-14-E",
+        "Descripcion": "Lámpara G45 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-6-14-E",
+        "Descripcion": "Lámpara G45 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-14-E",
+        "Descripcion": "Lámpara C37 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-14-E",
+        "Descripcion": "Lámpara C37 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-14-E",
+        "Descripcion": "Lámpara C37 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-6-14-E",
+        "Descripcion": "Lámpara C37 6W E14",
+        "FOB": 0.39,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-14-E",
+        "Descripcion": "Lámpara G45 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-14-E",
+        "Descripcion": "Lámpara G45 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-14-E",
+        "Descripcion": "Lámpara G45 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G45-8-14-E",
+        "Descripcion": "Lámpara G45 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-G45 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-14-E",
+        "Descripcion": "Lámpara C37 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-C37 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-14-E",
+        "Descripcion": "Lámpara C37 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-C37 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-14-E",
+        "Descripcion": "Lámpara C37 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-C37 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-C37-8-14-E",
+        "Descripcion": "Lámpara C37 8W E14",
+        "FOB": 0.45,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201901281001 - Enshine-C37 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G120-20-E",
+        "Descripcion": "Lámpara G120 20W",
+        "FOB": 1.93,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925281025 - Enshine-G120 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G120-20-E",
+        "Descripcion": "Lámpara G120 20W",
+        "FOB": 1.93,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925281025 - Enshine-G120 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G120-20-E",
+        "Descripcion": "Lámpara G120 20W",
+        "FOB": 1.93,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925281025 - Enshine-G120 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G95-15-E",
+        "Descripcion": "Lámpara G95 15W",
+        "FOB": 1.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925281025 - Enshine-G95GB E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G95-15-E",
+        "Descripcion": "Lámpara G95 15W",
+        "FOB": 1.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925281025 - Enshine-G95GB E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-G95-15-E",
+        "Descripcion": "Lámpara G95 15W",
+        "FOB": 1.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201925281025 - Enshine-G95GB E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R39-4-E",
+        "Descripcion": "Lámpara R39 4W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R39 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R39-4-E",
+        "Descripcion": "Lámpara R39 4W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R39 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R39-4-E",
+        "Descripcion": "Lámpara R39 4W",
+        "FOB": 0.37,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R39 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R50-6-E",
+        "Descripcion": "Lámpara R50 6W",
+        "FOB": 0.49,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R50 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R50-6-E",
+        "Descripcion": "Lámpara R50 6W",
+        "FOB": 0.49,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R50 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R50-6-E",
+        "Descripcion": "Lámpara R50 6W",
+        "FOB": 0.49,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R50 E14.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R63-9-E",
+        "Descripcion": "Lámpara R63 9W",
+        "FOB": 0.64,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R63 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R63-9-E",
+        "Descripcion": "Lámpara R63 9W",
+        "FOB": 0.64,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R63 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R63-9-E",
+        "Descripcion": "Lámpara R63 9W",
+        "FOB": 0.64,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R63 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R80-12-E",
+        "Descripcion": "Lámpara R80 12W",
+        "FOB": 0.97,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R80-12-E",
+        "Descripcion": "Lámpara R80 12W",
+        "FOB": 0.97,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-R80-12-E",
+        "Descripcion": "Lámpara R80 12W",
+        "FOB": 0.97,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201955281055 - Enshine-R80 E27.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-5-E",
+        "Descripcion": "Lámpara GU10 5W",
+        "FOB": 0.42,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 38 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 3000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 4000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 5000 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      },
+      {
+        "Modelo": "NK-GU10-7-E",
+        "Descripcion": "Lámpara GU10 7W",
+        "FOB": 0.44,
+        "Fotos": [
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201923281123 - Enshine-SPC2 GU10.fw.png"
+          },
+          {
+            "Foto": "https:\/\/electrobroker.com\/admin\/fotos\/201924281124 - Enshine-SPS GU10.fw.png"
+          }
+        ],
+        "Variantes": [
+          {
+            "Variante": "Temperatura de color: 6500 ºK"
+          },
+          {
+            "Variante": "Ángulo de Haz: 100 º"
+          }
+        ]
+      }
+    ]
+  }
+]
